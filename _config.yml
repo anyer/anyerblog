@@ -75,6 +75,6 @@ baidusitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/anyer/anyer.github.io
+  repo: git@github.com:anyer/anyer.github.io.git
   message: add hexo sitemap and robots.txt
   #branch:
