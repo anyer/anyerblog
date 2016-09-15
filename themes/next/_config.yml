@@ -120,7 +120,8 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/anyer
   微博: http://weibo.com/Degeneratespirit
-  CSDN: http://my.csdn.net/u012995964
+  CSDN: http://blog.csdn.net/u012995964
+  博客园: http://www.cnblogs.com/Anyers/
   豆瓣: http://douban.com/people/dspirit
   #知乎: http://www.zhihu.com/people/your-user-name
 
@@ -137,6 +138,7 @@ social_icons:
   #Twitter: twitter
   Weibo: weibo
   CSDN: csdn
+  博客园: cnblogs
   豆瓣: douban
 
 # Sidebar Avatar

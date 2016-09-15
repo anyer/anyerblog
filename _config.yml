@@ -76,5 +76,5 @@ baidusitemap:
 deploy:
   type: git
   repo: git@github.com:anyer/anyer.github.io.git
-  message: add hexo sitemap and robots.txt
+  message: add csdn blog and cnblogs links
   #branch:
