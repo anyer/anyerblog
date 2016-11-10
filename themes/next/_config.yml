@@ -32,8 +32,8 @@ menu:
   categories: /categories
   about: /about
   archives: /archives
-  #tags: /tags
-  #commonweal: /404.html
+  tags: /tags
+  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
