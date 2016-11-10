@@ -12,7 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://anyer.github.io
+#url: https://anyer.github.io
+#url:
 root: /
 permalink: :category/:year/:month/:day/:title/
 permalink_defaults:
