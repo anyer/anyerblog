@@ -13,7 +13,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://anyer.github.io
-root: /
+root: https://anyer.github.io
 permalink: :category/:year/:month/:day/:title/
 permalink_defaults:
 
@@ -76,5 +76,5 @@ baidusitemap:
 deploy:
   type: git
   repo: git@github.com:anyer/anyer.github.io.git
-  message: add csdn blog and cnblogs links
+  #message: add csdn blog and cnblogs links
   #branch:
